@@ -1,4 +1,4 @@
-# Coffee Shop Full Stack
+# Coffee Shop Full Stack(Part of udacity nanodgree)
 
 ## Full Stack Nano - IAM Final Project
 
